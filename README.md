@@ -1,4 +1,4 @@
-# Expat Open Source License (XLIC)
+# Expat Open Source License (EX License)
 ### A license based on the MIT License (Expat Version) that protects you from countries that bypass the provisions in the license.
 
 Some countries and federal unions are considering laws that impose liability and obligations on open source projects. They claim that these laws do not apply to open source, but usually the way the law is written, there are several loopholes that could wind up with open source projects being subject to onerous auditing requirements and legal liability, often enforced with fines and sometimes jail time.
