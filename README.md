@@ -15,7 +15,7 @@ You may also consider creating a non-profit association or a public benefit corp
 
 ## License Text
 
-> Expat Open Source License (Version 1.0)
+> Expat Open Source License (EX License Version 1.0)
 > 
 > Copyright (c) 2024 <your name or your organization's name here>
 > 
