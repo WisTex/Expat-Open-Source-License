@@ -5,9 +5,9 @@ Some countries and federal unions are considering laws that impose liability and
 
 For example, if your open source project takes donations, in some circumstances, you would wind up being required to follow the same rules that multi-million dollar software companies must follow.
 
-To circumvent that, we are just making it illegal to use our code in any country that imposes such obligations or liabilities.
+To circumvent that, we are just making it illegal to use our code in any country that imposes such obligations or liabilities, or in any manner that would impose obligations or liabilities on the copyrightholder or its contributors.
 
-We are giving our code away for free, and we have to pay our bills somehow. And paying someone $10,000 to do a security audit of our software when we don't even make $10,000 from the software is not something we are willing to do.
+We are giving our code away for *free*, and we have to pay our bills somehow. And paying someone $10,000 to do a security audit of our software, when we don't even make $10,000 from the software ourselves, is not something we are willing to do.
 
 To protect yourself from fines and liability, it is recommended that you adopt this license instead of the MIT license.
 
