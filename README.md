@@ -11,7 +11,7 @@ We are giving our code away for *free*, and we have to pay our bills somehow. An
 
 To protect yourself from fines and liability, it is recommended that you adopt this license instead of the MIT license.
 
-You may also considering creating a non-profit association or a public benefit corporation to own and manage your open source project, again, to protect yourself.
+You may also consider creating a non-profit association or a public benefit corporation to own and manage your open source project, again, to protect yourself.
 
 ## License Text
 
