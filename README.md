@@ -1,7 +1,7 @@
 # Expat Open Source License
-**A license based on the MIT License (Expat Version) that protects you from countries that bypass the provisions in the license.**
+### A license based on the MIT License (Expat Version) that protects you from countries that bypass the provisions in the license.
 
-Some countries and federal unions are considering laws that impose liability and obligations on open source projects. They claim that these laws does not apply to open source, but usually the way the law is written, there are several loopholes that could wind up with open source projects being subject to onerous auditing requirements and legal liability, often enforced with fines and sometimes jail time.
+Some countries and federal unions are considering laws that impose liability and obligations on open source projects. They claim that these laws do not apply to open source, but usually the way the law is written, there are several loopholes that could wind up with open source projects being subject to onerous auditing requirements and legal liability, often enforced with fines and sometimes jail time.
 
 For example, if your open source project takes donations, in some circumstances, you would wind up being required to follow the same rules that multi-million dollar software companies must follow.
 
@@ -10,6 +10,8 @@ To circumvent that, we are just making it illegal to use our code in any country
 We are giving our code away for free, and we have to pay our bills somehow. And paying someone $10,000 to do a security audit of our software when we don't even make $10,000 from the software is not something we are willing to do.
 
 To protect yourself from fines and liability, it is recommended that you adopt this license instead of the MIT license.
+
+You may also considering creating a non-profit association or a public benefit corporation to own and manage your open source project, again, to protect yourself.
 
 ## License Text
 
